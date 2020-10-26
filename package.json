@@ -6,9 +6,15 @@
   "dependencies": {
     "compression": "^1.7.4",
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^4.3.1",
+    "swagger-ui-express": "^4.1.4"
   },
   "scripts": {
-    "start": "NODE_ENV=production node src/app"
+    "start": "NODE_ENV=production node src/app",
+    "dev": "nodemon src/app"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
