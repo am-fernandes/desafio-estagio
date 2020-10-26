@@ -22,6 +22,19 @@ app.get('/imoveis', (_, res) => {
   res.json(dataset)
 })
 
+
+const x = dataset.map((e) => {
+  if (e.plantas.length) {
+    e.plantas.map(i => {
+      i.metragem = parseFloat(i.metragem)
+    })
+  }
+
+  return e
+})
+
+console.log(x)
+
 app.listen(8080, () => {
   process.stdout.write('listen on http://0.0.0.0:8080/imoveis\n')
 })
