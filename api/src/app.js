@@ -14,7 +14,7 @@ app.use(express.json())
 app.use(cors())
 app.use(compression())
 
-require('./../swagger-setup')(app);
+require('../swagger-setup')(app);
 
 /**
  * @swagger

@@ -4,7 +4,7 @@ RUN apt-get update && apt-get upgrade -y
 
 WORKDIR /app/www/
 
-COPY . .
+COPY ./api .
 
 RUN yarn install
 
