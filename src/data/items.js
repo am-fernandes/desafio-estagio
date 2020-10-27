@@ -755,7 +755,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 64,
-      "planta": "img_planta/1570671565209019429Cyrela Heredita planta 2.jpg",
       "preco": 440000,
       "vagas": 1
     }
@@ -927,7 +926,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 69,
-      "planta": "img_planta/1155791569010546618Planta 69.jpg",
       "preco": 443000,
       "vagas": 1
     }
@@ -1213,7 +1211,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 63,
-      "planta": "img_planta/2835861566850118179Planta 63m.png",
       "preco": 321300,
       "vagas": 1
     }
@@ -1645,7 +1642,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 54,
-      "planta": "img_planta/808465157600654712812.-planta-tipo54.jpg",
       "preco": 250000,
       "vagas": 1
     }
@@ -1798,7 +1794,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 56,
-      "planta": "img_planta/1158661564766477459Planta 56m.jpg",
       "preco": 480000,
       "vagas": 1
     }
@@ -2325,7 +2320,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 82,
-      "planta": "img_planta/3007621565025456197Planta 82m.jpg",
       "preco": 0,
       "vagas": 2
     }
@@ -2630,7 +2624,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 60,
-      "planta": "img_planta/248701564768948521Planta 60m.jpg",
       "preco": 375000,
       "vagas": 2
     }
@@ -2973,7 +2966,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 61,
-      "planta": "img_planta/5250041565209049231Genova Planta.jpg",
       "preco": 330000,
       "vagas": 2
     }
@@ -3126,7 +3118,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 51,
-      "planta": "img_planta/1770251576006164306Planta-SEBASTIAN-VILLE-V-B51.jpg",
       "preco": 250000,
       "vagas": 1
     }
@@ -3267,7 +3258,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 53,
-      "planta": "img_planta/9329781568815476294novatto planta.png",
       "preco": 260000,
       "vagas": 1
     }
@@ -3287,7 +3277,6 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 76,
-      "planta": "img_planta/898831568120111572_76.png",
       "preco": 465000,
       "vagas": 2
     }
@@ -3421,7 +3410,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 78,
-      "planta": "img_planta/2408981566851562753Planta 68m.jpg",
       "preco": 397600,
       "vagas": 2
     }
@@ -3587,7 +3575,6 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 78,
-      "planta": "img_planta/6007771576009357279Captura de Tela 2019-12-10 às 17.22.31.png",
       "preco": 456000,
       "vagas": 2
     }
@@ -4139,7 +4126,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 40,
-      "planta": "img_planta/1828891576003271538Planta SEBASTIAN VILLE II.jpg",
       "preco": 200000,
       "vagas": 1
     }
@@ -4501,7 +4487,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 55,
-      "planta": "img_planta/677741566852139877Planta 55m.jpg",
       "preco": 306720,
       "vagas": 1
     }
@@ -4730,7 +4715,6 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 181,
-      "planta": "img_planta/9831391565209046502Stillo Patriani planta.png",
       "preco": 1200000,
       "vagas": 3
     }
@@ -5320,7 +5304,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 51,
-      "planta": "img_planta/3067361566851206692Planta 51m.jpg",
       "preco": 332300,
       "vagas": 1
     }
@@ -5359,7 +5342,6 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 153,
-      "planta": "img_planta/2084621568816367351palmer 683 - planta.jpg",
       "preco": 1071000,
       "vagas": 3
     }
@@ -5493,7 +5475,6 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 154,
-      "planta": "img_planta/1463851565209016617allure patriani planta 2.jpg",
       "preco": 1080000,
       "vagas": 3
     }
@@ -5646,7 +5627,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 89,
-      "planta": "img_planta/791221565209041369le quartier planta.jpg",
       "preco": 534000,
       "vagas": "2"
     }
@@ -6287,7 +6267,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 55,
-      "planta": "img_planta/743441568817965913up life jardim planta.jpg",
       "preco": 330000,
       "vagas": 1
     }
@@ -6383,7 +6362,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 64,
-      "planta": "img_planta/367011569013343934Planta 63.jpg",
       "preco": 440000,
       "vagas": 2
     }
@@ -6441,7 +6419,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 64,
-      "planta": "img_planta/548631564765017674Planta 64m.jpg",
       "preco": 476000,
       "vagas": 2
     }
@@ -6613,7 +6590,6 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 160,
-      "planta": "img_planta/929161569016431039Planta 160.jpg",
       "preco": 1200000,
       "vagas": 3
     }
@@ -6804,7 +6780,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 52,
-      "planta": "img_planta/1211861567540126911sense-residencial-planta-52m2.jpg",
       "preco": 299999,
       "vagas": 1
     }
@@ -6995,7 +6970,6 @@ module.exports = [
     "planta": {
       "dorms": 1,
       "metragem": 42,
-      "planta": "img_planta/480041564765875153Planta 42m.jpg",
       "preco": 283000,
       "vagas": 1
     }
@@ -7034,7 +7008,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 64,
-      "planta": "img_planta/1288481569017177288Planta 64.jpg",
       "preco": 415000,
       "vagas": 2
     }
@@ -7301,7 +7274,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 59.7,
-      "planta": "img_planta/1285441569014511070Planta 59,70.jpg",
       "preco": 535217,
       "vagas": 2
     }
@@ -7359,7 +7331,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 63,
-      "planta": "img_planta/1256941564766660310Planta 63m.jpg",
       "preco": 434700,
       "vagas": 2
     }
@@ -7664,7 +7635,6 @@ module.exports = [
     "planta": {
       "dorms": 1,
       "metragem": 36,
-      "planta": "img_planta/221731566852666394Studio 36m.jpg",
       "preco": 209494,
       "vagas": 1
     }
@@ -7817,7 +7787,6 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 70,
-      "planta": "img_planta/211388157600531787102-e1490800918865.png",
       "preco": 350000,
       "vagas": 2
     }
@@ -7837,7 +7806,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 57,
-      "planta": "img_planta/766011576002171195planta kaika.jpg",
       "preco": 342000,
       "vagas": 1
     }
@@ -8269,7 +8237,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 57,
-      "planta": "img_planta/3704661568813455935like campestre planta.png",
       "preco": 350000,
       "vagas": 1
     }
@@ -8308,7 +8275,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 67,
-      "planta": "img_planta/1032321564766408712Planta 67m.jpg",
       "preco": 440000,
       "vagas": 1
     }
@@ -8328,7 +8294,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 67,
-      "planta": "img_planta/587521566850938808Planta 67m.jpg",
       "preco": 409000,
       "vagas": 2
     }
@@ -8348,7 +8313,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 63,
-      "planta": "img_planta/1820101568815482734Planta 63.jpg",
       "preco": 378000,
       "vagas": 2
     }
@@ -9331,7 +9295,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 49,
-      "planta": "img_planta/3273961566845957857Planta 49m.png",
       "preco": 308300,
       "vagas": 1
     }
@@ -10472,7 +10435,6 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 65,
-      "planta": "img_planta/1535461564764563430Planta 65m.jpeg",
       "preco": 420000,
       "vagas": 2
     }
@@ -11113,7 +11075,6 @@ module.exports = [
     "planta": {
       "dorms": 1,
       "metragem": 42,
-      "planta": "img_planta/2003691568816784180touch planta.jpg",
       "preco": 294000,
       "vagas": 1
     }
