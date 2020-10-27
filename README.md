@@ -62,7 +62,7 @@ A API tem uma única rota, `/imoveis`, o método GET retorna todos os dados dess
 
 ## Prazo e entrega
 
-Você deve subir o código no [GitHub](https://github.com) e enviar por e-mail para: matheus.sena@amfernandes.com.br até as **23:59 do dia 02/11/2020 (segunda-feira)**, a ultima fase da entrevista será marcada na mesma semana.
+Você deve subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **23:59 do dia 02/11/2020 (segunda-feira)**, a ultima fase da entrevista será marcada na mesma semana.
 
 ## Dúvidas
 Em caso de **qualquer** dúvida pode enviar um e-mail para: matheus.sena@amfernandes.com.br
