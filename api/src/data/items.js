@@ -15,7 +15,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 190,
       "preco": 1450000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -53,7 +53,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 65,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -110,7 +110,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 120,
       "preco": 535000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -148,7 +148,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 100,
       "preco": 420000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -167,7 +167,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 184,
       "preco": 1200000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -186,7 +186,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 110,
       "preco": 790000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -452,7 +452,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 75,
       "preco": 350000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -471,7 +471,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 101,
       "preco": 740000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -679,8 +679,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 112,
-      "preco": "450.000",
-      "vagas": "2"
+      "preco": 450000,
+      "vagas": 2
     }
   },
   {
@@ -851,7 +851,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 170,
       "preco": 690000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -889,7 +889,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 120,
       "preco": 750000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -984,7 +984,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 190,
       "preco": 1450000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1003,7 +1003,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 130,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1098,7 +1098,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 128,
       "preco": 935000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1136,7 +1136,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 310,
       "preco": 2000000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1174,7 +1174,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 187,
       "preco": 1100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1269,7 +1269,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 175,
       "preco": 1225000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1307,7 +1307,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 105,
       "preco": 530250,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1458,8 +1458,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 182,
-      "preco": "980000",
-      "vagas": "3"
+      "preco": 980000,
+      "vagas": 3
     }
   },
   {
@@ -1535,7 +1535,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 155,
       "preco": 1250000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1573,7 +1573,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 135,
       "preco": 590000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1661,8 +1661,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 75,
-      "preco": "469.000",
-      "vagas": "2"
+      "preco": 469000,
+      "vagas": 2
     }
   },
   {
@@ -1718,8 +1718,8 @@ module.exports = [
     "planta": {
       "dorms": "2",
       "metragem": 75,
-      "preco": "R$ 1.000.000,00",
-      "vagas": "1"
+      "preco": 1000000,
+      "vagas": 1
     }
   },
   {
@@ -1775,8 +1775,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 90,
-      "preco": "610.000",
-      "vagas": "3"
+      "preco": 610000,
+      "vagas": 3
     }
   },
   {
@@ -1909,7 +1909,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 175,
       "preco": 1300000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -1966,7 +1966,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 85,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2036,7 +2036,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 139,
       "preco": 1100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2073,8 +2073,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 87,
-      "preco": "530.000",
-      "vagas": "3"
+      "preco": 530000,
+      "vagas": 3
     }
   },
   {
@@ -2169,7 +2169,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 150,
       "preco": 560000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2206,8 +2206,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 129,
-      "preco": "630.000",
-      "vagas": "2"
+      "preco": 630000,
+      "vagas": 2
     }
   },
   {
@@ -2283,7 +2283,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 330,
       "preco": 2150000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2302,7 +2302,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 170,
       "preco": 650000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -2454,7 +2454,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 356,
       "preco": 2100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2492,7 +2492,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 136,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2511,7 +2511,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 116,
       "preco": 840000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2549,7 +2549,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 88,
       "preco": 440000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -2587,7 +2587,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 81,
       "preco": 480000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2796,7 +2796,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 175,
       "preco": 790000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -2834,7 +2834,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 83,
       "preco": 415000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -2891,7 +2891,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 280,
       "preco": 1400000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3062,7 +3062,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 220,
       "preco": 990000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3100,7 +3100,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 73,
       "preco": 380000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -3538,7 +3538,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 94,
       "preco": 730000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3613,8 +3613,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 90,
-      "preco": "510.000",
-      "vagas": "2"
+      "preco": 510000,
+      "vagas": 2
     }
   },
   {
@@ -3690,7 +3690,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 127,
       "preco": 695000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3766,7 +3766,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 410,
       "preco": 3000000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3785,7 +3785,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 264,
       "preco": 1100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3804,7 +3804,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 227,
       "preco": 1600000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3842,7 +3842,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 162,
       "preco": 455000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -3898,8 +3898,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 72,
-      "preco": "418.700",
-      "vagas": "2"
+      "preco": 418700,
+      "vagas": 2
     }
   },
   {
@@ -3956,7 +3956,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 160,
       "preco": 600000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4013,7 +4013,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 141,
       "preco": 645000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4089,7 +4089,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 356,
       "preco": 2100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4146,7 +4146,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 263,
       "preco": 1380000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4203,7 +4203,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 117,
       "preco": 585000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -4240,8 +4240,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 172,
-      "preco": "571.900",
-      "vagas": "3"
+      "preco": 571900,
+      "vagas": 3
     }
   },
   {
@@ -4316,8 +4316,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 65,
-      "preco": "373.000",
-      "vagas": "2"
+      "preco": 373000,
+      "vagas": 2
     }
   },
   {
@@ -4431,7 +4431,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 100,
       "preco": 750000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4507,7 +4507,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 296,
       "preco": 1340000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -4544,8 +4544,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 82,
-      "preco": "425.000",
-      "vagas": "2"
+      "preco": 425000,
+      "vagas": 2
     }
   },
   {
@@ -4639,8 +4639,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 56,
-      "preco": "365.000",
-      "vagas": "1"
+      "preco": 365000,
+      "vagas": 1
     }
   },
   {
@@ -4963,7 +4963,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 73,
       "preco": 430000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5001,7 +5001,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 55,
       "preco": 270000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5058,7 +5058,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 90,
       "preco": 450000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -5096,7 +5096,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 51,
       "preco": 260000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5172,7 +5172,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 102,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5210,7 +5210,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 327,
       "preco": 1815000,
-      "vagas": "4"
+      "vagas": 4
     }
   },
   {
@@ -5399,8 +5399,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 56,
-      "preco": "345.000",
-      "vagas": "1"
+      "preco": 345000,
+      "vagas": 1
     }
   },
   {
@@ -5418,8 +5418,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 186,
-      "preco": "645.000",
-      "vagas": "3"
+      "preco": 645000,
+      "vagas": 3
     }
   },
   {
@@ -5438,7 +5438,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 139,
       "preco": 900000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5457,7 +5457,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 165,
       "preco": 1250000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5533,7 +5533,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 266,
       "preco": 1862000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5609,7 +5609,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 75,
       "preco": 350000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5628,7 +5628,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 89,
       "preco": 534000,
-      "vagas": "2"
+      "vagas": 2
     }
   },
   {
@@ -5704,7 +5704,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 54,
       "preco": 257000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -5722,8 +5722,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 465,
-      "preco": "2.450.000",
-      "vagas": "4"
+      "preco": 2450000,
+      "vagas": 4
     }
   },
   {
@@ -5818,7 +5818,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 56,
       "preco": 329,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -5970,7 +5970,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 170,
       "preco": 1290000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -6192,7 +6192,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 50,
       "preco": 250000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -6229,8 +6229,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 88,
-      "preco": "470.000",
-      "vagas": "2"
+      "preco": 470000,
+      "vagas": 2
     }
   },
   {
@@ -6287,7 +6287,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 155,
       "preco": 1000000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -6438,8 +6438,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 240,
-      "preco": "850.000",
-      "vagas": "4"
+      "preco": 850000,
+      "vagas": 4
     }
   },
   {
@@ -6515,7 +6515,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 64,
       "preco": 335000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -6534,7 +6534,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 122,
       "preco": 990000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -6933,7 +6933,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 54,
       "preco": 269000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7103,8 +7103,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 89,
-      "preco": "465.000",
-      "vagas": "2"
+      "preco": 465000,
+      "vagas": 2
     }
   },
   {
@@ -7123,7 +7123,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 208,
       "preco": 990000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7237,7 +7237,7 @@ module.exports = [
       "dorms": 1,
       "metragem": 67.4,
       "preco": 179900,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -7369,8 +7369,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 143,
-      "preco": "401.600",
-      "vagas": "3"
+      "preco": 401600,
+      "vagas": 3
     }
   },
   {
@@ -7407,8 +7407,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 126,
-      "preco": "580.000",
-      "vagas": "2"
+      "preco": 580000,
+      "vagas": 2
     }
   },
   {
@@ -7446,7 +7446,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 129,
       "preco": 750000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7503,7 +7503,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 68,
       "preco": 270000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7598,7 +7598,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 86,
       "preco": 499000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7712,7 +7712,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 133,
       "preco": 650000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -7883,7 +7883,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 90,
       "preco": 450000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -8029,7 +8029,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 300,
       "preco": 1500000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -8047,8 +8047,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 159,
-      "preco": "660.000",
-      "vagas": "3"
+      "preco": 660000,
+      "vagas": 3
     }
   },
   {
@@ -8162,7 +8162,7 @@ module.exports = [
       "dorms": 4,
       "metragem": 365,
       "preco": 920000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -8200,7 +8200,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 167,
       "preco": 800000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -8219,7 +8219,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 300,
       "preco": 1700000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -8257,7 +8257,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 126,
       "preco": 321830,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -8351,8 +8351,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 130,
-      "preco": "780.000",
-      "vagas": "3"
+      "preco": 780000,
+      "vagas": 3
     }
   },
   {
@@ -8389,8 +8389,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 98,
-      "preco": "550.000",
-      "vagas": "2"
+      "preco": 550000,
+      "vagas": 2
     }
   },
   {
@@ -8631,7 +8631,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 56,
       "preco": 310000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -8782,8 +8782,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 190,
-      "preco": "980.000",
-      "vagas": "3"
+      "preco": 980000,
+      "vagas": 3
     }
   },
   {
@@ -8935,7 +8935,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 162,
       "preco": 599000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -9257,8 +9257,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 95,
-      "preco": "535.000",
-      "vagas": "2"
+      "preco": 535000,
+      "vagas": 2
     }
   },
   {
@@ -9334,7 +9334,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 104,
       "preco": 550000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -9352,8 +9352,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 217,
-      "preco": "1.325.000",
-      "vagas": "4"
+      "preco": 1325000,
+      "vagas": 4
     }
   },
   {
@@ -9447,8 +9447,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 79,
-      "preco": "390.000",
-      "vagas": "2"
+      "preco": 390000,
+      "vagas": 2
     }
   },
   {
@@ -9543,7 +9543,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 56,
       "preco": 195000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -9676,7 +9676,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 56,
       "preco": 310000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -9809,7 +9809,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 62,
       "preco": 340000,
-      "vagas": 999
+      "vagas": 2
     }
   },
   {
@@ -9827,8 +9827,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 129,
-      "preco": "650.000",
-      "vagas": "3"
+      "preco": 650000,
+      "vagas": 3
     }
   },
   {
@@ -9923,7 +9923,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 86,
       "preco": 335000,
-      "vagas": 0
+      "vagas": null
     }
   },
   {
@@ -9979,8 +9979,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 214,
-      "preco": "790.000",
-      "vagas": "4"
+      "preco": 790000,
+      "vagas": 4
     }
   },
   {
@@ -10151,7 +10151,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 144,
       "preco": 850000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10208,7 +10208,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 139,
       "preco": 1100000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10340,8 +10340,8 @@ module.exports = [
     "planta": {
       "dorms": 4,
       "metragem": 155,
-      "preco": "669.000",
-      "vagas": "3"
+      "preco": 669000,
+      "vagas": 3
     }
   },
   {
@@ -10550,7 +10550,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 175,
       "preco": 1040000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10588,7 +10588,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 91,
       "preco": 450000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10626,7 +10626,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 92,
       "preco": 350000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10683,7 +10683,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 50,
       "preco": 350000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10720,8 +10720,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 82,
-      "preco": "425.000",
-      "vagas": "2"
+      "preco": 425000,
+      "vagas": 2
     }
   },
   {
@@ -10739,8 +10739,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 120,
-      "preco": "690.000",
-      "vagas": "3"
+      "preco": 690000,
+      "vagas": 3
     }
   },
   {
@@ -10778,7 +10778,7 @@ module.exports = [
       "dorms": 2,
       "metragem": 66,
       "preco": 460000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
@@ -10796,8 +10796,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 74,
-      "preco": "360.000",
-      "vagas": "1"
+      "preco": 360000,
+      "vagas": 1
     }
   },
   {
@@ -10866,8 +10866,8 @@ module.exports = [
     "planta": {
       "dorms": 2,
       "metragem": 80,
-      "preco": "450.000",
-      "vagas": "2"
+      "preco": 450000,
+      "vagas": 2
     }
   },
   {
@@ -10885,8 +10885,8 @@ module.exports = [
     "planta": {
       "dorms": 3,
       "metragem": 234,
-      "preco": "550.000",
-      "vagas": "3"
+      "preco": 550000,
+      "vagas": 3
     }
   },
   {
@@ -11000,7 +11000,7 @@ module.exports = [
       "dorms": 3,
       "metragem": 145,
       "preco": 750000,
-      "vagas": ""
+      "vagas": null
     }
   },
   {
