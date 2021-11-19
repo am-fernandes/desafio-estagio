@@ -57,6 +57,7 @@ Você pode desenvolver **por exemplo** uma página que faz uma requisição para
 
 - Como o candidato lida com APIs de terceiros.
 - A implementação do algoritmo de ordenação.
+- A interface visual será um fator levado em consideração.
 - Quaisquer outras funcionalidade adicionadas no projeto serão analisadas e vistas com bons olhos.
 
 ## A API
