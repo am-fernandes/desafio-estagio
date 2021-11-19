@@ -6,11 +6,11 @@ Segue abaixo a descrição da atividade, na semana de entrega desse desafio ser�
 
 ## Descrição da atividade
 
-Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que preferir (contanto que seja uma tecnologia web), obedecendo as seguintes regras:
+Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que preferir (contanto que seja uma tecnologia de desenvolvimento web), obedecendo as seguintes regras:
 
 - Fazer uma requisição para a nossa API que retorna os dados de alguns imóveis.
 - Incluir um algoritmo de ordenação em qualquer parte do software, por exemplo: ordernar por nome do condomínio. (obs: qualquer algoritmo, a eficiência do algoritmo não será um fator a ser avaliado, apenas sua implementação).
-- As tecnologias web que o candidato pode utilizar são **por exemplo**:
+- As tecnologias de desenvolvimento web que o candidato pode utilizar são **por exemplo**:
   - HTML, CSS e JS;
   - React;
   - Angular;
