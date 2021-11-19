@@ -1,7 +1,7 @@
 const swaggerOptions = {
   swaggerDefinition: {
   info: {
-    title: "Desafio estágio AM Fernandes 2020",
+    title: "Desafio estágio AM Fernandes 2021",
     description: "Essa API foi desenvolvida para o desafio da vaga de estágio em desenvolvimento de Software, para mais detalhes acesse: https://github.com/am-fernandes/api-estagio"
   },
   servers: ["http://localhost:8080"],

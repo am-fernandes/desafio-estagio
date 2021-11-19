@@ -6,10 +6,17 @@ Segue abaixo a descrição da atividade, na semana de entrega desse desafio ser�
 
 ## Descrição da atividade
 
-Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que preferir, obedecendo as seguintes regras:
+Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que preferir (contanto que seja uma tecnologia web), obedecendo as seguintes regras:
 
 - Fazer uma requisição para a nossa API que retorna os dados de alguns imóveis.
 - Incluir um algoritmo de ordenação em qualquer parte do software, por exemplo: ordernar por nome do condomínio. (obs: qualquer algoritmo, a eficiência do algoritmo não será um fator a ser avaliado, apenas sua implementação).
+- As tecnologias web que o candidato pode utilizar são **por exemplo**:
+  - HTML, CSS e JS;
+  - React;
+  - Angular;
+  - Vue.js;
+  - **ou qualquer outra linguagem/tecnologia, contanto que rode no navegador! As mencionadas acima são apenas exemplos do que pode ser utilizado para desenvolver o desafio**.
+
 
 A API retorna um Array de JSON onde cada elemento contem as seguintes propriedades:
 
@@ -42,9 +49,9 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
 
 ## O que posso desenvolver?
 
-A decisão sobre o que desenvolver é totalmente livre!! 
+**A decisão sobre o que desenvolver é totalmente livre!!** 
 
-Você pode desenvolver por exemplo uma página que faz uma requisição para a API, assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e lista na página esse imóveis, ou um algoritmo que faça uma analise a partir dos dados recebidos, ou **qualquer outra ideia, contanto que respeite as regras impostas acima**.
+Você pode desenvolver **por exemplo** uma página que faz uma requisição para a API, assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e exibir na página esse imóveis, ou um algoritmo que faça uma analise a partir dos dados recebidos, ou **qualquer outra ideia, contanto que respeite as regras impostas acima**.
 
 ## O que será avaliado?
 
@@ -62,7 +69,7 @@ A API tem uma única rota, `/imoveis`, o método GET retorna todos os dados dess
 
 ## Prazo e entrega
 
-Você deve subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **23:59 do dia 02/11/2020 (segunda-feira)**, a ultima fase da entrevista será marcada na mesma semana.
+Você deve subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **23:59 do dia 28/11/2020 (Domingo)**, a ultima fase da entrevista será marcada na mesma semana.
 
 ## Dúvidas
 Em caso de **qualquer** dúvida pode enviar um e-mail para: matheus.sena@amfernandes.com.br
