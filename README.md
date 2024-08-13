@@ -25,7 +25,7 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
     "bairro": "Vila Gilda",
     "cep": "09190380",
     "cidade": "Santo André",
-    "fachada": "https://firebasestorage.googleapis.com/v0/b/easyhouse-am.appspot.com/o/img_fachada%2F1349541563914234302_fachada.jpg?alt=media",
+    "fachada": "https://firebasestorage.googleapis.com/v0/b/easyhouse-amf.appspot.com/o/1349541563914234302_fachada.jpg?alt=media",
     "location": {
       "_lat": -23.6706885,
       "_long": -46.5379514
