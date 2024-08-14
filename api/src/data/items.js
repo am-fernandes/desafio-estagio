@@ -1,5 +1,16 @@
 module.exports = [
   {
+    bairro: "Vila Gilda",
+    cep: "09190380",
+    cidade: "Santo André",
+    fachada: "https://firebasestorage.googleapis.com/v0/b/easyhouse-amf.appspot.com/o/taste.png?alt=media",
+    location: { _lat: -23.6706885, _long: -46.5379514 },
+    nome: "Taste residencial",
+    num: "124",
+    rua: "Rua Kugler",
+    planta: { dorms: 3, metragem: 76, preco: 465000, vagas: 2 }
+  },
+  {
     bairro: 'Jardim',
     cep: '09090-090',
     cidade: 'Santo André',

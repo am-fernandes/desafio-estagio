@@ -13,8 +13,6 @@ Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que p
 - As tecnologias de desenvolvimento web que o candidato pode utilizar são **por exemplo**:
   - HTML, CSS e JS;
   - React;
-  - Angular;
-  - Vue.js;
   - **ou qualquer outra linguagem/tecnologia, contanto que rode no navegador! As mencionadas acima são apenas exemplos do que pode ser utilizado para desenvolver o desafio**.
 
 
@@ -25,7 +23,7 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
     "bairro": "Vila Gilda",
     "cep": "09190380",
     "cidade": "Santo André",
-    "fachada": "https://firebasestorage.googleapis.com/v0/b/easyhouse-amf.appspot.com/o/1349541563914234302_fachada.jpg?alt=media",
+    "fachada": "https://firebasestorage.googleapis.com/v0/b/easyhouse-amf.appspot.com/o/taste.png?alt=media",
     "location": {
       "_lat": -23.6706885,
       "_long": -46.5379514
