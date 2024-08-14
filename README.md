@@ -1,8 +1,8 @@
 # Desafio AM Fernandes
 
-A AM Fernandes está sempre buscando profissionais interessados e que gostem de desafios, com isso montamos esse desafio para a última etapa do processo seletivo para a vaga de estágio em desenvolvimento front-end.
+A AM Fernandes está sempre buscando profissionais interessados e que gostem de desafios, por isso montamos esse desafio para a última etapa do processo seletivo para a vaga de estágio em desenvolvimento front-end.
 
-Segue abaixo a descrição da atividade, na semana de entrega desse desafio será marcado a entrevista da terceira fase, onde iremos ter uma nova conversa e debater sobre como foi a realização da atividade.  
+Segue abaixo a descrição da atividade: 
 
 ## Descrição da atividade
 
@@ -50,9 +50,9 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
 
 **A decisão sobre o que desenvolver é totalmente livre!! Pode usar sua criatividade** 
 
-Você pode desenvolver **por exemplo** uma página que faz uma requisição para a API, assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e exibir na página cards com a foto e informação desse imóveis;
+Você pode desenvolver, **por exemplo**, uma página que faz uma requisição para a API e assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e exibe na página cards com a foto e informação desse imóveis;
 
-**Outro exemplo**: Você pode se inspirar na página de listagem de imóveis de alguns imobiliários, **exemplo**: [Quinto Andar](https://www.quintoandar.com.br/), [Loft](https://loft.com.br/);
+**Outro exemplo**: Você pode se inspirar na página de listagem de imóveis de alguns portais imobiliários, **exemplo**: [Quinto Andar](https://www.quintoandar.com.br/), [Loft](https://loft.com.br/);
 
  **Ou qualquer outra ideia, você pode utilizar o máximo da sua criatividade, contanto que respeite as regras impostas acima**.
 
@@ -60,7 +60,7 @@ Você pode desenvolver **por exemplo** uma página que faz uma requisição para
 
 - Como o candidato lida com a API fornecida.
 - A implementação do algoritmo de ordenação.
-- A interface visual, por se tratar de uma vaga para front-end, a questão estética será o fator de maior peso na avaliação.
+- A interface visual. Por se tratar de uma vaga para front-end, a questão estética será o fator de maior peso na avaliação.
 - Quaisquer outras funcionalidade adicionadas no projeto serão analisadas e vistas com bons olhos.
 
 ## A API
@@ -73,7 +73,7 @@ A API tem uma única rota, `/imoveis`, o método GET retorna todos os dados dess
 
 ## Prazo e entrega
 
-Você deve criar um repositório e subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **18:00 do dia 20/09/2024 (Terça-feira)**, a entrevista presencial será realizada no dia 21/09/2024 (quarta-feira), no horário agendado pelo candidato.
+Você deve criar um repositório e subir o código no [GitHub](https://github.com) e enviar o link por e-mail para: matheus.sena@amfernandes.com.br até as **18:00 do dia 20/08/2024 (terça-feira)**. A entrevista presencial será realizada no dia 21/08/2024 (quarta-feira), no horário agendado pelo candidato.
 
 ## Dúvidas
 Em caso de **qualquer** dúvida ou problema, pode enviar um e-mail para o gestor da área: matheus.sena@amfernandes.com.br
