@@ -1,19 +1,18 @@
 # Desafio AM Fernandes
 
-A AM Fernandes está sempre buscando profissionais interessados e que gostem de desafios, com isso montamos esse desafio para a última etapa do processo seletivo para a vaga de estágio em desenvolvimento de software.
+A AM Fernandes está sempre buscando profissionais interessados e que gostem de desafios, com isso montamos esse desafio para a última etapa do processo seletivo para a vaga de estágio em desenvolvimento front-end.
 
-Segue abaixo a descrição da atividade, na semana de entrega desse desafio será marcado a call da terceira fase, onde iremos ter uma nova conversa e debater sobre como foi a realização da atividade.  
+Segue abaixo a descrição da atividade, na semana de entrega desse desafio será marcado a entrevista da terceira fase, onde iremos ter uma nova conversa e debater sobre como foi a realização da atividade.  
 
 ## Descrição da atividade
 
-Nessa etapa o candidato deve escrever um programa, na linguagem/Frameworks que preferir (contanto que seja uma tecnologia de desenvolvimento web), obedecendo as seguintes regras:
+Nessa etapa o candidato deve desenvolver uma ou mais páginas web, obedecendo as seguintes regras:
 
-- Fazer uma requisição para a nossa API que retorna os dados de alguns imóveis.
-- Incluir um algoritmo de ordenação em qualquer parte do software, por exemplo: ordernar por nome do condomínio. (obs: qualquer algoritmo, a eficiência do algoritmo não será um fator a ser avaliado, apenas sua implementação).
-- As tecnologias de desenvolvimento web que o candidato pode utilizar são **por exemplo**:
-  - HTML, CSS e JS;
-  - React;
-  - **ou qualquer outra linguagem/tecnologia, contanto que rode no navegador! As mencionadas acima são apenas exemplos do que pode ser utilizado para desenvolver o desafio**.
+- Fazer uma requisição para a nossa API que retorna os dados de alguns imóveis (**obs**: as informações são apenas para exemplificação).
+- Incluir um algoritmo de ordenação em qualquer parte do código, **por exemplo**: ordernar por nome do condomínio, ou até adicionar algum botão para ordenar por preço. (**obs**: qualquer algoritmo, a eficiência do algoritmo não será um fator a ser avaliado, apenas sua implementação).
+- Esse desafio pode ser feito em HTML, CSS e JS; **Desenvolver em React será um diferencial;**
+- Caso você deseje, pode utilizar qualquer biblioteca para a estilização da página (Bootstrap, Tailwind CSS, React MUI, etc)
+- Está liberado também a utilização de quaisquer outras APIs ou bibliotecas JavaScript, como **por exemplo**: Axios, Lottie, APIs de mapas, etc.
 
 
 A API retorna um Array de JSON onde cada elemento contem as seguintes propriedades:
@@ -43,19 +42,24 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
 ### Observações: 
 - A propriedade **num** se refere ao número do endereço.
 - A propriedade **fachada** é a URL de uma imagem da fachada, alguns links podem estar quebrados.
+- Algumas propriedades, como **vagas** e **dorms** podem apresentar valores nulos em alguns casos.
 - **NÃO é obrigatório utilizar todas as propriedades.** 
 
 ## O que posso desenvolver?
 
-**A decisão sobre o que desenvolver é totalmente livre!!** 
+**A decisão sobre o que desenvolver é totalmente livre!! Pode usar sua criatividade** 
 
-Você pode desenvolver **por exemplo** uma página que faz uma requisição para a API, assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e exibir na página esse imóveis, ou um algoritmo que faça uma analise a partir dos dados recebidos, ou **qualquer outra ideia, contanto que respeite as regras impostas acima**.
+Você pode desenvolver **por exemplo** uma página que faz uma requisição para a API, assim que recebe esses dados ordena por algum campo arbitrário, ou é ordenado através de uma ação de clique e exibir na página cards com a foto e informação desse imóveis;
+
+**Outro exemplo**: Você pode se inspirar na página de listagem de imóveis de alguns imobiliários, **exemplo**: [Quinto Andar](https://www.quintoandar.com.br/), [Loft](https://loft.com.br/);
+
+ **Ou qualquer outra ideia, você pode utilizar o máximo da sua criatividade, contanto que respeite as regras impostas acima**.
 
 ## O que será avaliado?
 
-- Como o candidato lida com APIs de terceiros.
+- Como o candidato lida com a API fornecida.
 - A implementação do algoritmo de ordenação.
-- A interface visual será um fator levado em consideração.
+- A interface visual, por se tratar de uma vaga para front-end, a questão estética será o fator de maior peso na avaliação.
 - Quaisquer outras funcionalidade adicionadas no projeto serão analisadas e vistas com bons olhos.
 
 ## A API
@@ -68,7 +72,7 @@ A API tem uma única rota, `/imoveis`, o método GET retorna todos os dados dess
 
 ## Prazo e entrega
 
-Você deve subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **23:59 do dia 16/10/2022 (Domingo)**, a ultima fase da entrevista será marcada na mesma semana.
+Você deve criar um repositório e subir o código no [GitHub](https://github.com) e enviar o link do repositório por e-mail para: matheus.sena@amfernandes.com.br até as **18:00 do dia 20/09/2024 (Terça-feira)**, a entrevista presencial será realizada no dia 21/09/2024 (quarta-feira), no horário agendado pelo candidato.
 
 ## Dúvidas
-Em caso de **qualquer** dúvida pode enviar um e-mail para: matheus.sena@amfernandes.com.br
+Em caso de **qualquer** dúvida ou problema, pode enviar um e-mail para o gestor da área: matheus.sena@amfernandes.com.br
