@@ -44,6 +44,7 @@ A API retorna um Array de JSON onde cada elemento contem as seguintes propriedad
 - A propriedade **fachada** é a URL de uma imagem da fachada, alguns links podem estar quebrados.
 - Algumas propriedades, como **vagas** e **dorms** podem apresentar valores nulos em alguns casos.
 - **NÃO é obrigatório utilizar todas as propriedades.** 
+- É **permitido** o uso de ferramentas de IA Generativa (ChatGPT, GitHub Copilot, etc), o uso dessas ferramentas não será julgado.
 
 ## O que posso desenvolver?
 
